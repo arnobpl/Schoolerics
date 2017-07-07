@@ -23,7 +23,7 @@ The project code might be used in various environments after some sort of tweaki
 After performing the above, you can run easily the project. Please do the followings to run the project:
   - Open `Schoolerics.sln` with *Visual Studio 2015*.
   - Add a new *ASP.NET* project to the solution. You can use either *MVC* or *Web Forms* but *MVC* is preferable.
-  - Add some code to integrate with `Schoolerics.Model`. Please refer to [Code Overview](#code-overview) section for more details.
+  - Add some code to integrate with `Schoolerics.Models`. Please refer to [Code Overview](#code-overview) section for more details.
 
 
 Code Overview
